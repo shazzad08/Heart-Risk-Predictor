@@ -6,6 +6,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 An AI-powered early heart disease risk screening system. This project uses a Machine Learning classification model (K-Nearest Neighbors) to assess a patient's risk of heart disease based on their medical information and vitals. It features a beautiful, responsive, and user-friendly web interface built with Streamlit.
+📍 Live: https://heart-risk-predictor-d4vubmp43y8e7bs98eieed.streamlit.app/
 
 ## ✨ Features
 
